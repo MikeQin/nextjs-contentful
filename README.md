@@ -1,3 +1,17 @@
+# NextJS Contentful - Just Add Marmite
+
+```
+npx create-next-app nextjs-contentful
+
+npm install contentful
+```
+
+### Install rich-text-react-renderer
+```
+npm install @contentful/rich-text-react-renderer
+```
+
+-----------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
